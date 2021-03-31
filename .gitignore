@@ -1,0 +1,9 @@
+GMM/Analysis/*
+GMM/__pycache__
+GMM/box_sizes.png
+GMM/cars_distribution.png
+GMM/cars_distribution.png.csv
+GMM/gmm_data.csv
+GMM/models.p
+GMM/pedestrians_distribution.png
+GMM/pedestrians_distribution.png.csv

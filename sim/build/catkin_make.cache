@@ -1,0 +1,2 @@
+rospy
+-DCATKIN_DEVEL_PREFIX=/home/rosvm/Schreibtisch/sim/devel -DCMAKE_INSTALL_PREFIX=/home/rosvm/Schreibtisch/sim/install -G Unix Makefiles
