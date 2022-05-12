@@ -7,3 +7,14 @@ GMM/gmm_data.csv
 GMM/models.p
 GMM/pedestrians_distribution.png
 GMM/pedestrians_distribution.png.csv
+.project
+.pydevproject
+*.zip
+*.txt
+GMM/OldFiles/
+GMM/out/
+*.log
+GMM/Results/
+data/
+.gitignore.swp
+HAG/__pycache__/
